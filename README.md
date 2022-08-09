@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ringgold Atienza, PhD
+- 👋 Hi, I’m Ringgold Atienza
 - 👀 I’m interested in AI, Deep Learning and Machine Learning
 - 🌱 I’m currently learning alot about AI.
 - 💞️ I’m looking to collaborate on any projects
