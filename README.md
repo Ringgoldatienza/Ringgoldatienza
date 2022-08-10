@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Ringgold Atienza
+# 👋 Hi, I’m Ringgold Atienza
+
 - 👀 I’m interested in AI, Deep Learning and Machine Learning
-- 🌱 I’m currently learning alot about AI.
-- 💞️ I’m looking to collaborate on any projects
+- 🌱 I’m currently learning alot about tensorflow and keras.
 - 📫 You can reach me at ringgoldatienza@yahoo.com or via my LinkedIn: https://www.linkedin.com/in/ringgold-atienza-970566148/
 
 <!---
