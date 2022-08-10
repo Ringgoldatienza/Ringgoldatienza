@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Ringgold Atienza
+## 👋 Hi, I’m Ringgold Atienza
 
 - 👀 I’m interested in AI, Deep Learning and Machine Learning
 - 🌱 I’m currently learning alot about tensorflow and keras.
