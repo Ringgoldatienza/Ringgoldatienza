@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Ringgold Atienza
 
-- 👀 I’m currently interested in AI, Deep Learning, and Machine Learning. I am a transitionist (from quantitative researcher in the academe to machine learning practitioner). 
+- 👀 I’m currently interested in AI, Deep Learning, and Machine Learning. I am a transitionist (from academic researcher to machine learning practitioner). 
 - 🌱 I’m currently learning alot about tensorflow and keras.
 - 📫 You can reach me at ringgoldatienza@yahoo.com or via my LinkedIn: https://www.linkedin.com/in/ringgold-atienza-970566148/
 
