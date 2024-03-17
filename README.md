@@ -1,9 +1,9 @@
 ## 👋 Hi, I’m Ringgold Atienza
 
-- 👀 I’m currently interested in AI, Deep Learning, and Machine Learning.
-- 🌱 I’m currently learning alot about tensorflow and keras.
+- 👀 I’m interested in AI, Deep Learning, and Machine Learning.
+- 🌱 I’m currently learning a lot about Tensorflow and Keras.
 - 📫 You can reach me at ringgoldatienza@yahoo.com or via my LinkedIn: https://www.linkedin.com/in/ringgold-atienza-970566148/
-- ✨ Google scholar: https://scholar.google.com/citations?user=si2VKusAAAAJ&hl=en
+- ✨ Google Scholar: https://scholar.google.com/citations?user=si2VKusAAAAJ&hl=en
 
 <!---
 Ringgoldatienza/Ringgoldatienza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
